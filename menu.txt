@@ -3,3 +3,4 @@ Food Festival 2026 Menu
 Stall 1: Pizza
 Stall 2: Gujarati Thali
 Stall 3: Chinese Noodles
+stall 4: ice cream
